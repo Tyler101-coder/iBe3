@@ -93,8 +93,6 @@
 					<string>8.8.4.4</string>
 				</array>
 			</dict>
-			<key>ProhibitDisablement</key>
-			<true/>
 		</dict>
 
 		<!-- ---------- 2. Certificate Transparency enforcement ----------- -->
